@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, c# 교과서!");
+            Console.WriteLine("Visual Studio GUI로 Commit & Push");
         }
     }
 }
