@@ -4,10 +4,23 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("이름을 입력하시오 => ");
-            string name = Console.ReadLine();
-            Console.WriteLine("안녕하세요 {0}님", name);
+            //숫자를 하나만 입력했을 때 오류가 난다.
+            //string[] input = Console.ReadLine().Split();
+            //int A = int.Parse(input[0]);
+            //int B = int.Parse(input[1]);
+            //Console.WriteLine((double)A / B);
 
+            string[] input = Console.ReadLine().Split();
+                
+            if (input.Length < 2)
+            {
+                Console.WriteLine("두 개의 숫자를 입력하세요 (예: 3 2");
+                return;
+            }
+            int A = int.Parse(input[0]);
+            int B = int.Parse(input[1]);
+
+            Console.WriteLine((double)A / B);
         }
 
     }
