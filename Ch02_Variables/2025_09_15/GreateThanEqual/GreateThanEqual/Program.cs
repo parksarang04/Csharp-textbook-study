@@ -11,12 +11,14 @@
 
             if (first >= second)
             {
-                Console.WriteLine("큰 값 {0}" , first);
+                Console.WriteLine("큰 값 {0}", first);
             }
             else
             {
                 Console.WriteLine("큰 값 {0}", second);
             }
+
+            // Ex 메서드 호출
             Ex();
         }
 
@@ -27,13 +29,10 @@
             int diff = 0;
 
             if (first >= second)
-            {
                 diff = first - second;
-            }
             else
-            {
                 diff = second - first;
-            }
+
             Console.WriteLine($"{first} 와 {second} 의 차이 : {diff}");
         }
     }
