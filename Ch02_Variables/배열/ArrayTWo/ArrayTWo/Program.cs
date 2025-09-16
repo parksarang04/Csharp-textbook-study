@@ -102,7 +102,7 @@
             for(int i = 0; i < 3; i++)
             {
                 for(int j = 0; j < 4; j++)
-                {2
+                {
                     Console.Write($"{scores[i, j],4}");
                 }
                 Console.WriteLine();
