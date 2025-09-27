@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "구조체를 사용하여 변수나 배열을 묶어 관리", "구조체를 사용하여 변수나 배열을 묶어 관리\구조체를 사용하여 변수나 배열을 묶어 관리.csproj", "{AAFE5E77-C4D8-481B-9161-D9FBD86D4E49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAFE5E77-C4D8-481B-9161-D9FBD86D4E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAFE5E77-C4D8-481B-9161-D9FBD86D4E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAFE5E77-C4D8-481B-9161-D9FBD86D4E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAFE5E77-C4D8-481B-9161-D9FBD86D4E49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {112341D9-4B69-4730-B853-4F03DBDD3FE0}
+	EndGlobalSection
+EndGlobal
