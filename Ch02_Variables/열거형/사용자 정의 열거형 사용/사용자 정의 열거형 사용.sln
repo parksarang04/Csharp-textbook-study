@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "사용자 정의 열거형 사용", "사용자 정의 열거형 사용\사용자 정의 열거형 사용.csproj", "{3C39FEBC-0B53-47DD-ADA5-0F7902442D8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C39FEBC-0B53-47DD-ADA5-0F7902442D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C39FEBC-0B53-47DD-ADA5-0F7902442D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C39FEBC-0B53-47DD-ADA5-0F7902442D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C39FEBC-0B53-47DD-ADA5-0F7902442D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {881A2E23-4E5A-4D01-B1EB-C5427D020130}
+	EndGlobalSection
+EndGlobal
