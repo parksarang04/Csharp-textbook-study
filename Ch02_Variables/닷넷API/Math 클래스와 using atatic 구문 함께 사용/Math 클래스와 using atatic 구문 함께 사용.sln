@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math 클래스와 using atatic 구문 함께 사용", "Math 클래스와 using atatic 구문 함께 사용\Math 클래스와 using atatic 구문 함께 사용.csproj", "{4C01EAC3-E8E4-42F0-A189-7ACC222CC485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C01EAC3-E8E4-42F0-A189-7ACC222CC485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C01EAC3-E8E4-42F0-A189-7ACC222CC485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C01EAC3-E8E4-42F0-A189-7ACC222CC485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C01EAC3-E8E4-42F0-A189-7ACC222CC485}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC7B69EC-9697-44FF-B8F6-0A55936A7D65}
+	EndGlobalSection
+EndGlobal
